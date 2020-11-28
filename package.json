@@ -1,0 +1,51 @@
+{
+    "name": "motion-haleness",
+    "displayName": "Motion Haleness",
+    "description": "That's a good question for another time",
+    "publisher": "erole-attack",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/erole-attack/motion-haleness-vscode-theme"
+    },
+    "galleryBanner": {
+        "color": "#9A275A",
+        "theme": "dark"
+    },
+    "icon": "images/icon_250x250.png",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "erole-attack Theme",
+        "Dark Theme",
+        "Minimal",
+        "React",
+        "Gatsby",
+        "Eerie Black",
+        "Raisin Black",
+        "Black Coral",
+        "Orange Yellow Crayola",
+        "Bittersweet",
+        "Cadet Blue Crayola",
+        "Dark Cyan",
+        "Blond",
+        "Turquoise",
+        "Medium Purple",
+        "Jazzbery Jam",
+        "Sky Blue Crayola",
+        "Tea Green"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Motion Haleness",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Motion Haleness-color-theme.json"
+            }
+        ]
+    }
+}
