@@ -2,6 +2,84 @@
 	"name": "Motion Haleness",
 	"type": "dark",
 	"colors": {
+		"focusBorder": "#A9B4C2",
+        "foreground": "#0F8B8D",
+        "widget.shadow": "#08090a",
+        "icon.foreground": "#eeffff",
+
+        "textLink.activeForeground": "#CCF5AC",
+        "textLink.foreground": "#F4D35E",
+        "textPreformat.foreground": "#F4D35E",
+
+        "button.background": "#0F8B8D",
+        "button.foreground": "#eeffff",
+        "button.hoverBackground": "#55D6BE",
+
+        "dropdown.background": "#262A33",
+        "dropdown.border": "#1B2228",
+        "dropdown.foreground": "#eeffff",
+
+        "input.background": "#4A5667",
+        "input.border": "#1b222800",
+        "input.foreground": "#eeffff",
+        "input.placeholderForeground": "#a0aec0",
+        "inputOption.activeForeground": "#eeffff",
+
+        "scrollbarSlider.activeBackground": "#4A5667",
+        "scrollbarSlider.background": "#a9b4c213",
+        "scrollbarSlider.hoverBackground": "#4A5667",
+
+        "badge.foreground": "#eeffff",
+        "badge.background": "#0F8B8D",
+
+        "list.activeSelectionBackground": "#212329",
+        "list.activeSelectionForeground": "#eeffff",
+        "list.dropBackground": "#0f8b8d80",
+        "list.hoverBackground": "#2b2d34",
+        "list.hoverForeground": "#eeffff",
+        "list.inactiveSelectionBackground": "#212329",
+        "list.inactiveSelectionForeground": "#eeffff",
+        "list.warningForeground": "#FF715B",
+        "tree.indentGuidesStroke": "#a0aec0",
+
+        "activityBar.background": "#212329",
+        "activityBar.foreground": "#F4D35E",
+        "activityBar.inactiveForeground": "#a0aec0",
+        "activityBar.border": "#212329",
+        
+		"activityBarBadge.foreground": "#F4D35E",
+		"activityBarBadge.background": "#0F8B8D",
+
+        "sideBar.background": "#2b2d34",
+        "sideBar.foreground": "#a0aec0",
+        "sideBar.border": "#212329",
+        "sideBar.dropBackground": "#0f8b8d80",
+        "sideBarTitle.foreground": "#eeffff",
+        "sideBarSectionHeader.background": "#2b2d34",
+        "sideBarSectionHeader.foreground": "#FBF2C0",
+        "sideBarSectionHeader.border": "#2b2d34",
+        
+        "minimap.selectionHighlight": "#9a275b48",
+        "minimap.background": "#2b2d34",
+
+        "editorGroup.border": "#4A5667",
+        "editorGroup.dropBackground": "#08090a81",
+        "editorGroupHeader.noTabsBackground": "#08090a81",
+        "editorGroupHeader.tabsBackground": "#2b2d34",
+        "editorGroupHeader.tabsBorder": "#2b2d34",
+        "tab.activeBackground": "#0F8B8D",
+        "tab.activeForeground": "#eeffff",
+        "tab.border": "#2b2d34",
+        "tab.inactiveBackground": "#2b2d34",
+        "tab.hoverBackground": "#4A5667",
+        "tab.unfocusedActiveModifiedBorder": "#F4D35E",
+        "tab.unfocusedInactiveModifiedBorder": "#F4D35E",
+        "editorPane.background": "#F4D35E",
+
+        "titleBar.activeBackground": "#212329",
+        "titleBar.activeForeground": "#eeffff",
+        "titleBar.inactiveBackground": "#212329",
+		"titleBar.inactiveForeground": "#eeffff",
 		
 		"editor.background": "#212329",
 		"editor.foreground": "#eeffff",
@@ -9,14 +87,14 @@
 		"editorLineNumber.activeForeground": "#72a8d8",
 		"editorCursor.foreground": "#9f5ef4",
 		"editor.selectionBackground": "#9A275A",
-		"editor.selectionHighlightBackground": "#9A275A",
-		"editor.wordHighlightBackground": "#9A275A",
-		"editor.wordHighlightStrongBackground": "#9A275A",
+		"editor.selectionHighlightBackground": "#9f5ef433",
+		"editor.wordHighlightBackground": "#55d6be33",
+		"editor.wordHighlightStrongBackground": "#9a275b48",
 		"editor.findMatchHighlightBackground": "#9f5ef481",
 		"editor.hoverHighlightBackground": "#76e6fc79",
 		"editor.lineHighlightBorder": "#ffffff00",
 		"editorWhitespace.foreground": "#262A33",
-		"editorBracketMatch.background": "#76E5FC",
+		"editorBracketMatch.background": "#76e6fc33",
 
 		"statusBar.background": "#0F8B8D",
 
@@ -25,8 +103,12 @@
 		"breadcrumb.focusForeground": "#eeffff",
 		"breadcrumb.activeSelectionForeground": "#eeffff",
 		"breadcrumbPicker.background": "#2b2d34",
-
-		"activityBarBadge.background": "#eeffff"
+      "editorBracketMatch.border": "#76e6fc00",
+      "editor.inactiveSelectionBackground": "#76e6fc00",
+      "editorGutter.modifiedBackground": "#F4D35E",
+      "editorGutter.addedBackground": "#55D6BE",
+      "gitDecoration.modifiedResourceForeground": "#F4D35E",
+      "gitDecoration.untrackedResourceForeground": "#55D6BE"
 	},
 	"tokenColors": [
 		{
