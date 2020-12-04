@@ -5,6 +5,9 @@ A Visual Studio Code theme I decided to create for myself. And who knows.. Maybe
 ## Motion Haleness
 ![Theme Example](theme-example.png)
 
+## Motion Haleness <em>Italic</em>
+![Italic Theme Example](italic-theme-example.png)
+
 # Installation
 
 1.  Install [Visual Studio Code](https://code.visualstudio.com/)
