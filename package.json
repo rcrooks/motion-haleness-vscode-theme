@@ -45,6 +45,11 @@
                 "label": "Motion Haleness",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Motion Haleness-color-theme.json"
+            },
+            {
+                "label": "Motion Haleness Italic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Motion Haleness Italics Variation-color-theme.json"
             }
         ]
     }
